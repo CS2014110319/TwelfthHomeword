@@ -15,6 +15,7 @@
 		3FD7AAAC21BB62910038A7AB /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3FD7AAAA21BB62910038A7AB /* LaunchScreen.storyboard */; };
 		3FD7AAB421BB637A0038A7AB /* DatailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3FD7AAB321BB637A0038A7AB /* DatailViewController.swift */; };
 		3FD7AAB621BB63E40038A7AB /* PerSonTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3FD7AAB521BB63E40038A7AB /* PerSonTableViewController.swift */; };
+		3FD7AAB821BB76E20038A7AB /* queryViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3FD7AAB721BB76E20038A7AB /* queryViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +29,7 @@
 		3FD7AAAD21BB62910038A7AB /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		3FD7AAB321BB637A0038A7AB /* DatailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DatailViewController.swift; sourceTree = "<group>"; };
 		3FD7AAB521BB63E40038A7AB /* PerSonTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PerSonTableViewController.swift; sourceTree = "<group>"; };
+		3FD7AAB721BB76E20038A7AB /* queryViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = queryViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				3FD7AA9E21BB62910038A7AB /* AppDelegate.swift */,
 				3FD7AAA021BB62910038A7AB /* ViewController.swift */,
 				3FD7AAA221BB62910038A7AB /* Main.storyboard */,
+				3FD7AAB721BB76E20038A7AB /* queryViewController.swift */,
 				3FD7AAB521BB63E40038A7AB /* PerSonTableViewController.swift */,
 				3FD7AAB321BB637A0038A7AB /* DatailViewController.swift */,
 				3FD7AAA821BB62910038A7AB /* Assets.xcassets */,
@@ -145,6 +148,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				3FD7AAA121BB62910038A7AB /* ViewController.swift in Sources */,
+				3FD7AAB821BB76E20038A7AB /* queryViewController.swift in Sources */,
 				3FD7AAB621BB63E40038A7AB /* PerSonTableViewController.swift in Sources */,
 				3FD7AA9F21BB62910038A7AB /* AppDelegate.swift in Sources */,
 				3FD7AAA721BB62910038A7AB /* TwelfthHomeword.xcdatamodeld in Sources */,
